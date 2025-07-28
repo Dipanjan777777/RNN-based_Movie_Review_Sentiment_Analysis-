@@ -1,8 +1,19 @@
-tensorflow 
-numpy
-pandas
-ipykernel
-scikit-learn
-matplotlib
-seaborn
-streamlit
+# Core ML and Data Processing
+tensorflow>=2.10.0
+numpy>=1.21.0
+pandas>=1.3.0
+scikit-learn>=1.0.0
+
+# Web Application
+streamlit>=1.25.0
+
+# Jupyter Notebook Support
+ipykernel>=6.0.0
+jupyter>=1.0.0
+
+# Visualization
+matplotlib>=3.5.0
+seaborn>=0.11.0
+
+# Optional: For better performance
+# plotly>=5.0.0  # Uncomment if you want to use plotly charts
