@@ -344,4 +344,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **Made with ❤️ for the AI and movie enthusiast community**
 
-*Last updated: December 2024*
+
